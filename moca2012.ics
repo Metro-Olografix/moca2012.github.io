@@ -1,0 +1,684 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MOCA 2012
+X-WR-TIMEZONE:Europe/Rome
+X-WR-CALDESC:MOCA 2012
+BEGIN:VEVENT
+DTSTART:20130217T080000Z
+DTEND:20130217T170000Z
+DTSTAMP:20130116T085455Z
+ORGANIZER;CN=109905170260828318865@profile.calendar.google.com:https://plus
+ .google.com/109905170260828318865
+UID:tjjhj4jh8lotp6rob8bm55ddbc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=insomn
+ ia@gmail.com;X-NUM-GUESTS=0:mailto:insomnia@gmail.com
+URL:https://plus.google.com/events/ctjjhj4jh8lotp6rob8bm55ddbc
+CREATED:20130111T160143Z
+DESCRIPTION:Una delle più belle iniziative invernali del centro Italia\, un
+ a ciaspolata aperta a tutti sulla piana di Campo Imperatore\, in uno dei pi
+ ù suggestivi scenari montani al mondo.\n\nhttp://www.racchettegransasso.it/
+LAST-MODIFIED:20130112T003149Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Racchette in Gran Sasso
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121216T023000Z
+DTEND:20121216T043000Z
+DTSTAMP:20130116T085455Z
+ORGANIZER;CN=112526208786662512291@profile.calendar.google.com:https://plus
+ .google.com/112526208786662512291
+UID:ml7e7f64lb42rbgk9khlvr15ng@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=in
+ somnia@gmail.com;X-NUM-GUESTS=0:mailto:insomnia@gmail.com
+URL:https://plus.google.com/events/cml7e7f64lb42rbgk9khlvr15ng
+CREATED:20121215T183149Z
+DESCRIPTION:SHOW-AND-TELL Google+ LIVE Hangout! Tonight at 9:30pm ET\nhttps
+ ://plus.google.com/+adafruit\n\n1) Add +Adafruit Industries to your circles
+ \n2) Post a message/comment HERE and say you want to show off a project and
+  we will add you the “Show and Tell” circle.\n\nThen just look for the hang
+ out announcement on the very same page later for your invite. There’s an 8 
+ to 10 (at the same time) people limit per hangout\, so if it’s full try lat
+ er or just pop by next week same time. Some weeks are packed!\n\nAt 9:30pm 
+ ET you will see a link to the hang out. Just keep your mics muted until we 
+ call on you and have your project ready.\n\nFor those who just want to watc
+ h\, you’ll be able to watch it live on Google+ ‘s broadcast feature on Adaf
+ ruit’s page AND it will be recorded and uploaded to YouTube automatically.
+LAST-MODIFIED:20121215T190440Z
+LOCATION:https://plus.google.com/+adafruit
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SHOW-AND-TELL Google+ LIVE Hangout! Tonight at 9:30pm ET
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T140000Z
+DTEND:20120825T150000Z
+DTSTAMP:20130116T085455Z
+UID:59bkgr9kc5o3tg0013fbs3it70@google.com
+CREATED:20120722T190243Z
+DESCRIPTION:In un'era di cybertutto e cyberniente\, in cui giornalmente\nle
+ ggiamo di cyberintrusioni\, cyberarmi e cyberstati che attaccano altri\ncyb
+ erstati ed ascoltiamo espertoni di cyberintelligence farci l'oroscopo\ndel 
+ cyberspace\, finalmente un po' di luce su quello che succede la'\nfuori\, n
+ essuno escluso.
+LAST-MODIFIED:20120825T124758Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Cyberwars and Cyberwaterguns (Quequero\, Claudio "nex" Guarnieri)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120826T090000Z
+DTEND:20120826T093000Z
+DTSTAMP:20130116T085455Z
+UID:m9b3o66a6o44bh6b7ouespt2p8@google.com
+CREATED:20120722T190223Z
+DESCRIPTION:Tor2web is an anonymous publishing project that aim to create a
+  network of distributed servers over the internet that "expose" Tor Hidden 
+ Service Websites otherwise reachable only trough the Tor Darknet. Tor2web W
+ orkshop will explain the Tor2web project and get people involved\, sharing 
+ the research and experience done in trying to keep the server up&running\, 
+ the status of new tor2web software\, work on improvements\, discuss on howt
+ o Of interests for: ONG and hackers running and hacking Tor project softwar
+ e \, anonimity and cryptoanarchism hackers We will work on Tor2web design\,
+  issues\, code hacking and brainstorming on how to improve and really diffu
+ se tor2web approach. Tor2web is now a project supported by GlobaLeaks team 
+ with precious support from Tor community Tor2web Project overview - - Bit o
+ f history - - Architecture - - Server takedown issues\, how to manage it - 
+ - Blocking t2w access to content\, a reasonable policy - - The software evo
+ lution and experience Tor2web 1.0 - First generation tor2web (apache/privox
+ y/tor hacks) - Limitations Tor2web 2.0 - dirty hacks and survival tricks be
+ tween server takedown Tor2web 3.0 (because we like changing often) - New ar
+ chitecture (multidomain\, nicknames) - Experimental Tor2web Mode of Tor - N
+ ew Software design - Security and anti-takedown measures - Tor2web code hac
+ king How to get hands on tor2web code hacking - Open issues to work on - Cr
+ owd Brainstorming on next evolution roadmap (dynamically making new github 
+ issues) - Getting engaged in expanding Tor2web network Running a Tor2web no
+ de - The network of trust issue (SSL private key handling) - Discussion on 
+ organization and the tor2web.org domain destination
+LAST-MODIFIED:20120825T124753Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Tor2web: Anonymous Internet Publishing via Takedown resistance TorH
+ S exposure (naif\, hellais\, vecna)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120826T093000Z
+DTEND:20120826T100000Z
+DTSTAMP:20130116T085455Z
+UID:iun3lbvtgtqrg89g5g4mjbukek@google.com
+CREATED:20120821T184855Z
+DESCRIPTION:APAF is immature. Italian. Incomplete. Yet we are trying to bui
+ ld\nthe first python library for anonymous web applications\, exposed as To
+ r\nHidden Service\, easy to be installed and managed on multiple platforms\
+ n(Windows\, OSX\, Debian\, Android).\nThis talk will drive you trough the u
+ se of apaf: how we thought it\, its\ninternals\, the way you can easily cre
+ ate and expose your Tor Hidden\nService interface\, and how we managed diff
+ erent platforms.\nApaf will be used by GlobaLeaks\, Tor2web\, CryptoCat and
+  other anonymity\nprojects.
+LAST-MODIFIED:20120825T124751Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:APAF - Anonymous Python Application Framework (Michele Orrù - Maker
+ )
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T200000Z
+DTEND:20120825T210000Z
+DTSTAMP:20130116T085455Z
+UID:h5c0h2l7b716mej0vtmdqdoneg@google.com
+CREATED:20120722T185411Z
+DESCRIPTION:Nowadays hypervisors have become common terms in computer secur
+ ity. Even though they are broadly deployed in most IT solutions\, from the 
+ security perspective internals are not well documented\, and most of the ti
+ me they require a strong reverse engineering effort to be understood. In th
+ is talk I will give a brief introduction on VMM extensions designed by Inte
+ l\, then I will move on internal mechanisms of bare metal hypervisors with 
+ a particular focus on the VMCS memory layout that controls every hypervisor
+  functionalities.
+LAST-MODIFIED:20120825T124652Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Beware of Hypervisor: Understanding ring -1 (Mariano `emdel` Grazia
+ no)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T180000Z
+DTEND:20120824T190000Z
+DTSTAMP:20130116T085455Z
+UID:ch2dimoqppa6svb55ibtpdmo0g@google.com
+CREATED:20120722T181559Z
+DESCRIPTION:La storia della sicurezza di Wi-Fi è costellata di fallimenti. 
+ Prima WEP\, poi le prime crepe in TKIP\, il brute force off-line su WPA e a
+ lla fine\, nel dicembre 2011 il brute force online di WPS (Reaver). Partire
+ mo proprio da questo bug che rende possibile craccare un PIN in poche ore c
+ on un attacco di forza bruta verso un access point configurato con PIN stat
+ ico. L'attacco ovviamente può essere rallentato configurando l'AP in modo d
+ a limitare il numero di autenticazioni per minuto. Ma il diavolo si nascond
+ e nei dettagli... analizzando il protocollo abbiamo addocchiato un nuovo at
+ tacco sul PIN che in certe condizioni permette di craccarlo senza bisogno d
+ i forza bruta\, aggirando cosi' le contromisure configurate sull'AP. Inoltr
+ e\, stiamo analizzando la possibilità di portare l'attacco anche in configu
+ razioni di PIN dinamico inserito dall'utente. L'analisi di questi attacchi 
+ e le condizioni per portarli sono ancora un work-in-progress che vogliamo c
+ ondividere al Moca\, ma "To the best of our knolwdge" si tratterebbe di uno
+  speed-up nuovo che trasforma la lunghezza dell'attacco con Reaver da diver
+ se ore a pochi secondi\, inoltre\, inarrestabile dall'AP. Considerato che W
+ PS è uno standard Wi-Fi alliance presente in milioni di device\, pensiamo c
+ he sia interessante...
+LAST-MODIFIED:20120822T113038Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Re-breaking Wireless Protected Setup (Leonardo Maccari\, Matteo Ros
+ i)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T160000Z
+DTEND:20120824T170000Z
+DTSTAMP:20130116T085455Z
+UID:hc4nnp0oi3btdnf2o0ra56gtsg@google.com
+CREATED:20120722T181427Z
+DESCRIPTION:Dai leaks alla microeditoria\, passando per il data journalism.
+  Strumenti e tecnologie per smontare le notizie e guardare dentro l'informa
+ zione mainstream.
+LAST-MODIFIED:20120822T112909Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Hacking media (Carlo Gubitosa)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T130000Z
+DTEND:20120824T140000Z
+DTSTAMP:20130116T085455Z
+UID:g3s3fq1f56nvabllqtge33aal4@google.com
+CREATED:20120722T175119Z
+DESCRIPTION:Perché alla sicurezza delle telecomunicazioni dovrebbero intere
+ ssare le frodi? Cosa c'entra il Viagra con le intrusioni informatiche? Qual
+ i sono i nuovi scenari e\, soprattutto\, come fare a contrastarli? Tra una 
+ mail di phishing e una giocata di poker\, un piccolo tour su attori\, obiet
+ tivi e finalità di un mondo sommerso che si occupa di far girare soldi\, id
+ entità e interessi. Alle spalle di chi pensa di non doverci mai avere a che
+  fare. - -- Fondamentalmente si ripercorre il fenomeno delle frodi dalla te
+ lefonica all'informatica: 899\, 709\, macchinette\, phishing e spear phishi
+ ng\, trojan di varia natura e razza\, attacchi SEO e Google Redirect Hack\,
+  fino ai problemi di riciclaggio nel mondo del gaming/gambling\, chiudendo 
+ il cerchio con le sempreverdi frodi telefoniche ma effettuate attraverso si
+ stemi informatici (ricariche SMS ecc.). Ovviamente si parlerà anche del bus
+ iness nero\, delle motivazioni e un po' delle organizzazioni che ci sono di
+ etro. Anche se poi alla fine mi interessa più vedere l'aspetto del come fan
+ no\, piuttosto che il perché. Tutto con casi reali\, come sono stati rileva
+ ti e gestiti\, quanto fruttavano\, ecc. ecc. ecc.
+LAST-MODIFIED:20120821T000523Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(Anonymous) Fraudster of the new Age (Andrea Pompili)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120826T100000Z
+DTEND:20120826T110000Z
+DTSTAMP:20130116T085455Z
+UID:cgiakchv597lkl28egkprfk4a8@google.com
+CREATED:20120722T190301Z
+DESCRIPTION:Grassroot liquid democracy over the internet for associations\,
+  political parties\, democratic companies and anywhere people have to debat
+ e and decide upon something.
+LAST-MODIFIED:20120820T235818Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:LiquidFeedback (lynx)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T220000Z
+DTEND:20120824T230000Z
+DTSTAMP:20130116T085455Z
+UID:ehujgt3ivk96uj66vttfq2a300@google.com
+CREATED:20120806T183645Z
+DESCRIPTION:Anopticon è un progetto di schedatura delle telecamere di video
+ sorveglianza negli spazi pubblici\, portato avanti per mezzo della collabor
+ azione di una community di utenti su internet. Il nome del progetto deriva 
+ dall'Anopticon di Umberto Eco\, che a sua volta è l'opposto del Panopticon\
+ , il carcere immaginato dal filosofo Jeremy Bentham nel 1791. Nell'ambito d
+ el progetto al rovesciamento immaginato da Eco (fare in modo che il sorvegl
+ iante sia l'unico a poter essere visto senza vedere chi lo osserva)\, si ag
+ giunge il concetto che inoltre i detenuti guardano\, e dunque "sorvegliano"
+  a loro volta\, il sorvegliante. Un altro riferimento è al Grande Fratello 
+ di George Orwell. Nel concreto il progetto\, attraverso la collaborazione d
+ ei propri utenti\, ha raccolto la mappatura e la schedatura delle telecamer
+ e di videosorveglianza negli spazi pubblici cittadini\, allo scopo di defin
+ ire l'area videosorvegliata della città e di segnalare alle autorità compet
+ enti le violazioni della privacy e le telecamere illegali o non segnalate s
+ econdo la legge. Sono state mappate le telecamere delle città di Venezia\, 
+ Padova\, Foggia\, Urbino\, Solero (provincia di Alessandria)\, Alessandria\
+ , Pisa\, Genova\, Mestrino\, Cassano d'Adda\, Bari\, vico equense e Roma ed
+  ne è stata pubblicata in rete la mappa interattiva (Big Brother viewer). S
+ ul sito è attivo un blog sulla videosorveglianza chiamato Anoptiblog. Il pr
+ ogetto si occupa inoltre della censura su siti come Facebook e Youtube e ha
+  prodotto motori di ricerca per la censura su questi due siti (YouTube Hot 
+ Crawler\, o YTHC e Facebook Hot Crawler) e analisi in tempo reale della cen
+ sura\, con sua mappatura (YouTube Word Counter). Ha pubblicato in rete una 
+ lista di video censurati su YouTube.
+LAST-MODIFIED:20120820T093247Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Presentazione del progetto anopticon: Anopticon Stato dell'arte (Ep
+ to Tramaci)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T150000Z
+DTEND:20120824T160000Z
+DTSTAMP:20130116T085455Z
+UID:35c60lupmnv07953rlus5s580o@google.com
+CREATED:20120806T183728Z
+DESCRIPTION:
+LAST-MODIFIED:20120820T093109Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:N0F3@r ed il SonicOS\, deep packet inspection... Tips&Tricks ma sop
+ rattutto cosa non fare mai... (Cristiano Cafferata)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120826T110000Z
+DTEND:20120826T120000Z
+DTSTAMP:20130116T085455Z
+UID:q97kcioicnv3ofaqct5v6q7pgg@google.com
+CREATED:20120722T190320Z
+DESCRIPTION:
+LAST-MODIFIED:20120820T080354Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Goodbye... until the end of the world! (MOCA Daemons)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T210000Z
+DTEND:20120825T220000Z
+DTSTAMP:20130116T085455Z
+UID:ro8sunornfs2jsmamgu4grdohk@google.com
+CREATED:20120722T190132Z
+DESCRIPTION:
+LAST-MODIFIED:20120820T080328Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Talk + Workshop about Lockpicking (Lockpicker\, Simon Mago)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T190000Z
+DTEND:20120825T200000Z
+DTSTAMP:20130116T085455Z
+UID:dm10l128gn8c86blt26klgbejc@google.com
+CREATED:20120722T190038Z
+DESCRIPTION:Con tutti i soldi e i giuda che girano\, ha ancora senso parlar
+ e di "scena"?
+LAST-MODIFIED:20120820T080317Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Spaghetti Scotti (Andrea Monti\, Stefano Chiccarelli)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T180000Z
+DTEND:20120825T190000Z
+DTSTAMP:20130116T085455Z
+UID:23lfbb4bfkek1uanor1cfe4iqs@google.com
+CREATED:20120722T185856Z
+DESCRIPTION:Air-related technologies are on the verge of tehnological upgra
+ de and advance in approximately the same manner the mobile communication ne
+ tworks and smartphones were 5-10 years. As noticed in practice\, these tech
+ nological advances open opportunities for performance and innovation\, but 
+ at the same time open great opportunity for security exploitation. In this 
+ talk and whitepaper\, we will approach the ADS-B (in)security from the prac
+ tical angle\, presenting the feasibility and techniques of how potential at
+ tackers could play with generated/injected airtraffic and as such potential
+ ly opening new attack surfaces onto AirTrafficControl systems.
+LAST-MODIFIED:20120820T080312Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Ghost is in the Air(traffic) (Andrei Costin)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T170000Z
+DTEND:20120825T180000Z
+DTSTAMP:20130116T085455Z
+UID:h5ct9kt0rgg916i3a7l009c2ng@google.com
+CREATED:20120722T185821Z
+DESCRIPTION:The talk will generally illustrate the problem of surveillance 
+ of the internet in particular a subset of this problem: censorship. We will
+  show some examples of censorship that have happened recently with particul
+ ar focus on Italy. We will then present OONI\, the Open Observatory of Netw
+ ork Interference\, is a global observation network which aims to collect hi
+ gh quality data using open methodologies\, using Free and Open Source Softw
+ are (FL/OSS) to share observations and open data about the various types\, 
+ methods\, and amounts of network tampering in the world.
+LAST-MODIFIED:20120820T080306Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:OONI\, Open Observatory of Network Interference monitoring and meas
+ uring internet surveillance and censorship (Arturo Filastò\, Jacob Appelbau
+ m)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T160000Z
+DTEND:20120825T170000Z
+DTSTAMP:20130116T085455Z
+UID:k3h7f1kl7a0m8pv9c482qpvuls@google.com
+CREATED:20120722T185743Z
+DESCRIPTION:As a cooperation between two non-profit development organizatio
+ ns Urbania Hoeve and Dyne.org\, this lecture won't introduce a specific pro
+ ject\, rather than inspire the audience with a visionary metaphor\, compari
+ ng and analyzing design patterns found to be analogous in two separate disc
+ iplines. Following an interdisciplinary approach to pattern languages\, we'
+ ll adventure in the discovery of Permaculture Principles in relationship to
+  Free and Open Source Software development. Permaculture is a design and in
+ formation intensive system for agriculture that aims at permanent sustainab
+ ility: as a recent progress from industrial agriculture\, its fundamental c
+ ontribution to the field of ecological design is the development of a conci
+ se set of broadly applicable organizing principles\, for which we intend to
+  envision relationships with the principles subsisting in Free Software cul
+ ture.
+LAST-MODIFIED:20120820T080300Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Design paradigms\, from Free Software to permaculture (Jaromil)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T150000Z
+DTEND:20120825T160000Z
+DTSTAMP:20130116T085455Z
+UID:qlbm90knut580vl4ohhc9l7cqs@google.com
+CREATED:20120722T185441Z
+DESCRIPTION:The 7th June 2012 Linkedin was hacked. More than 6 million Link
+ edIn passwords was compromised. The real shocking news was not the theft bu
+ t the fact that the attackers were able to decrypt many of these passwords.
+  Why it happened? The answer is simple: a bad design of the password securi
+ ty. The Linkedin engineers used a simple hash function (SHA-1) to protect t
+ he passwords. This technique is considered insecure from many years (it doe
+ sn't protect against dictionary attacks that are becoming more powerful eve
+ ry day). If you think that you are secure because you use a salt value with
+  an hash function\, you should follow this presentation. I will show you ho
+ w to protect user's passwords using cryptographic algorithms such as bcrypt
+ \, scrypt and PBKDF2.
+LAST-MODIFIED:20120820T080255Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Password security: how to generate and store passwords in a secure 
+ way (Enrico "cerin0" Zimuel)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T120000Z
+DTEND:20120825T130000Z
+DTSTAMP:20130116T085455Z
+UID:rkkr5t3o6bf7if2lc5acj8l3bs@google.com
+CREATED:20120722T185315Z
+DESCRIPTION:
+LAST-MODIFIED:20120820T080231Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Advanced Persistent ... Wadda ?!? - Daily tale of insecurity in ita
+ lian companies (Francesco "Rageman" Perna)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T110000Z
+DTEND:20120825T120000Z
+DTSTAMP:20130116T085455Z
+UID:fq351vs5jp83td2i43o2s6emmk@google.com
+CREATED:20120722T185233Z
+DESCRIPTION:Today more and more devices around us have computing capabiliti
+ es. Most of the time\, they are sold with their firmware flashed on the dev
+ ice\, and you never get to touch any software while you interact with the d
+ evice. But an actual insight in the firmware is interesting\, let it be jus
+ t for fun and education\, for extending the product (like the CHDK firmware
+  for Canon Powershot cameras)\, or for evaluating the security of the firmw
+ are. In this talk I will give an overview over how firmware is usually load
+ ed and executed on a device\, an then explain how I use QEMU and a GDB stub
+  to debug a hardware device with platform simulation and in-vivo to underst
+ and its internal structures faster.
+LAST-MODIFIED:20120820T080226Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Embedded devices' firmware reversing (Jonas Zaddach)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T100000Z
+DTEND:20120825T110000Z
+DTSTAMP:20130116T085455Z
+UID:e075kjk8fmufp62tdf8pqpc7r4@google.com
+CREATED:20120722T185158Z
+DESCRIPTION:secushare.org: The holy grail of communications\, a P2P social 
+ framework to re-invent social with privacy built-in
+LAST-MODIFIED:20120820T080221Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:secushare.org (lynx)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T090000Z
+DTEND:20120825T100000Z
+DTSTAMP:20130116T085455Z
+UID:b5cgojqgg2isst4lbhp3acf8mo@google.com
+CREATED:20120722T185135Z
+DESCRIPTION:
+LAST-MODIFIED:20120820T080215Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Talk about Android programming (Marcello Cannarsa)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T080000Z
+DTEND:20120825T090000Z
+DTSTAMP:20130116T085455Z
+UID:4esbv06d25h3dpmfl2lqaippls@google.com
+CREATED:20120722T185103Z
+DESCRIPTION:GlobaLeaks is the first Anonymous Whistleblowing OpenSource Sof
+ tware. In this talk we will explain how to setup a GlobaLeaks node and how 
+ to start hacking on it\, our strategies\, how we are moving and organizing\
+ , how you can get involved with a transparency activism activity or on tech
+ nical side. We hope to get you excited about the project and join us in bui
+ lding the tools for future Whistleblowers and Whistleblowing organization. 
+ This talk is aimed at explaining GlobaLeaks software and share our research
+  on the social aspect of whistle blowing and technological challenges we en
+ countered. Hopefully by the end of it you will join us in making the tools 
+ for whistleblowers of the future! We would like to involve the hacking comm
+ unity in the project. The first part of the talk is about the introduction 
+ to the GlobaLeaks vision (the "big picture") overview and sharing of the re
+ sult of Technological and social research. The second part of the talk is f
+ ocused on the technology\, by sharing the design principles of GlobaLeaks\,
+  the technological issues encountered\, various hacks done and to be done o
+ n multiple software projects.
+LAST-MODIFIED:20120820T080211Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:GlobaLeaks\, Anonymous Whistleblowing OpenSource Software (naif\, h
+ ellais\, vecna)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T070000Z
+DTEND:20120825T080000Z
+DTSTAMP:20130116T085455Z
+UID:6272mmddnaq1lvk9lc89vhlsqk@google.com
+CREATED:20120820T075055Z
+DESCRIPTION:A comparative analysis with the most diffused languages to unde
+ rline the aspects that make the Python a language that deserves to be learn
+ ed and used.
+LAST-MODIFIED:20120820T080204Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Why to adopt a reptile? Using Python. (Carlos Catucci)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T210000Z
+DTEND:20120824T220000Z
+DTSTAMP:20130116T085455Z
+UID:ua91eq0pu7b8vs9imfr4pp4b3s@google.com
+CREATED:20120722T181934Z
+DESCRIPTION:BillyIdle.de: workshop in edit/mash-up production.. how to make
+  cheesy music sound cool and how to put funny vocals on top so it becomes c
+ heesy again.
+LAST-MODIFIED:20120814T103427Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:BillyIdle.de (lynx)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T140000Z
+DTEND:20120824T150000Z
+DTSTAMP:20130116T085455Z
+UID:3oac9vdd9obqf685qf3nk8sp3s@google.com
+CREATED:20120722T175217Z
+DESCRIPTION:Pirates boarding Berlin: How the heck they invented a horizonta
+ l party and brought it to 9% of consensus
+LAST-MODIFIED:20120814T103359Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Pirates boarding Berlin (lynx)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120825T130000Z
+DTEND:20120825T140000Z
+DTSTAMP:20130116T085455Z
+UID:8asa395i0cvd4rlhtbqqoj0dfs@google.com
+CREATED:20120722T175250Z
+DESCRIPTION:Riuscite ad immaginare una rete senza fili libera\, aperta\, de
+ centralizzata\, progettata\, costruita e mantenuta dai suoi stessi partecip
+ anti? Riuscite ad immaginare un gruppo di volontari che applicano il modell
+ o del software libero alle reti di telecomunicazione? Riuscite ad immaginar
+ e una rete a cui chiunque può collegarsi e partecipare liberamente\, in cui
+  gli utenti stessi decidono democraticamente le politiche di sviluppo? Semb
+ ra una bella favola utopica\, non è vero? Tuttavia il fenomeno delle Free N
+ etworks è reale e sta crescendo sempre di più in tutto il mondo: solo in Ca
+ talogna si contano più di 17.000 nodi [1]\; in Grecia se ne contano più di 
+ 11.000 [2]\; anche in Italia il fenomeno è in crescita\, la community Ninux
+ .org al momento conta più di 120 nodi attivi in cinque diverse città Italia
+ ne. Ma cosa sono queste reti comunitarie? Cosa significa farne parte? Che b
+ enefici possono portare alla società? Quali sono le difficoltà che si incon
+ trano nel costruirne una? Quali sono le tecnologie utilizzate? Quali potreb
+ bero essere i futuri sviluppi? In questo talk Federico Capoano (Ninux.org) 
+ cercherà di rispondere in modo esauriente a tutte queste domande. [1]: http
+ ://guifi.net/en/node/38392 [2]: http://wind.awmn.net/
+LAST-MODIFIED:20120810T073534Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Community networks (Federico Capoano)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T200000Z
+DTEND:20120824T210000Z
+DTSTAMP:20130116T085455Z
+UID:5qdo4k153uoti2360e6805cd48@google.com
+CREATED:20120722T181735Z
+DESCRIPTION:Con l'aumentare delle informazioni e dei servizi disponibili su
+  Internet\, è aumentato il valore e la sensibilità dei dati gestiti da appl
+ icazioni e database. Un valore che necessita livelli di protezione elevati\
+ , in un contesto complesso\, eterogeneo e molte volte realizzato ad hoc. Co
+ me realizzare un layer di protezione usando tecnologie emergenti in grado d
+ i adattarsi alle applicazioni e fornire servizi di tracciamento\, rilevazio
+ ne attacchi e "virtual patching" senza stravolgere l'esistente. - -- Basta 
+ parlare di pentest e OWASP? il problema è: come mi difendo? Cosa devo mette
+ re in piedi e perché lo devo fare? Quali strumenti mi offre il mercato\, ma
+  soprattutto come posso combinarli. Poi ci divertiamo con alcuni casi di at
+ tacchi o problematiche reali\, su cui si cerca di capire cosa è andato stor
+ to e come si poteva gestire meglio quello che è successo?
+LAST-MODIFIED:20120722T193736Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Application Security for the masses (Andrea Pompili)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T190000Z
+DTEND:20120824T200000Z
+DTSTAMP:20130116T085455Z
+UID:01caqhrfuo3re6n22khtd6808s@google.com
+CREATED:20120722T181624Z
+DESCRIPTION:
+LAST-MODIFIED:20120722T193734Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Opendata (Daniele Robotica)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T170000Z
+DTEND:20120824T180000Z
+DTSTAMP:20130116T085455Z
+UID:j7mrvmt8i6nhht1c846dj08v6o@google.com
+CREATED:20120722T181523Z
+DESCRIPTION:
+LAST-MODIFIED:20120722T193731Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:15 years in the digital music circus (Nicola Battista)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20120824T120000Z
+DTEND:20120824T130000Z
+DTSTAMP:20130116T085455Z
+UID:hk3f7es5gf5knavrhju53fn6fc@google.com
+CREATED:20120722T174836Z
+DESCRIPTION:
+LAST-MODIFIED:20120722T193724Z
+LOCATION:Via dei Pretuzi 28\, Pescara\, Italy
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Moca 2012 - Un inizio spumeggiante! (MOCA Daemons)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
